@@ -1,4 +1,31 @@
-# 프로젝트 소개 (역전기록소)
+# 프로젝트 "역전 기록소"
+
+## 목차
+
+[:family: 팀소개](#:family:-팀소개)
+
+[:train: 프로젝트  "역전기록소" 소개](#:train:-프로젝트-"역전기록소"-소개)
+
+* [서비스 소개](#서비스-소개)
+  + [기획 의도](#기획-의도)
+  + [기능](#기능)
+* [- 에디터 오픈소스 소개](#--에디터-오픈소스-소개)
+
+[:wrench: 스택](#:wrench:-스택)
+
+[:ledger: 기능소개](#:ledger:-기능소개)
+
+[:computer: 프로젝트 실행 방법](#:computer:-프로젝트-실행-방법)
+
+* [- Backend](#--Backend)
+* [- Frontend](#--Frontend)
+
+[🤝개발 규칙](#🤝개발-규칙)
+
+* [- GIT Convention](#--git-convention)
+* [- Code Convention](#--code-convention)
+
+<br>
 
 ## :family: 팀소개
 
@@ -99,7 +126,7 @@ Common: <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&l
 
 <br>
 
-## :computer:프로젝트 실행 방법
+## :computer: 프로젝트 실행 방법
 
 ### - Backend
 
