@@ -71,7 +71,7 @@
 
     미래의 특정 날짜에 해당하는 글을 쓰면, 그 날짜에 알림 기능
   
-  <img width="80%" src="https://autobiography.s3.ap-northeast-2.amazonaws.com/book.gif"/>
+  <img width="80%" src="https://autobiography.s3.ap-northeast-2.amazonaws.com/book.gif?raw=true"/>
 
 
 
@@ -82,7 +82,7 @@
   - 순서 편집 가능
   - 에피소드가 많을 경우, 토글버튼을 이용한 UI 변경 가능
 
-  <img width="80%" src="https://autobiography.s3.ap-northeast-2.amazonaws.com/timeline.gif"/>
+  <img width="80%" src="https://autobiography.s3.ap-northeast-2.amazonaws.com/timeline.gif?raw=true"/>
 
 - **공유기능**
 
@@ -131,7 +131,7 @@ Common: <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&l
 ### - Backend
 
 ```text
-$ git clone https://lab.ssafy.com/s04-final/s04p31b201.git
+$ git clone https://github.com/dongjay00/fospublisher.git
 $ cd server
 $ npm i
 $ npm start
@@ -140,7 +140,7 @@ $ npm start
 ### - Frontend
 
 ```text
-$ git clone https://lab.ssafy.com/s04-final/s04p31b201.git
+$ git clone https://github.com/dongjay00/fospublisher.git
 $ cd fospublisher
 $ npm i
 $ npm run serve
