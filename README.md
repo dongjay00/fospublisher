@@ -71,7 +71,10 @@
 
     미래의 특정 날짜에 해당하는 글을 쓰면, 그 날짜에 알림 기능
   
-  <img width="80%" src="https://autobiography.s3.ap-northeast-2.amazonaws.com/book.gif?raw=true"/>
+  | ![굴쓰기 페이지](./README.assets/굴쓰기 페이지.PNG) | ![디자인페이지](./README.assets/디자인페이지.PNG) |
+  | --------------------------------------------------- | ------------------------------------------------- |
+  
+  
 
 
 
@@ -82,7 +85,10 @@
   - 순서 편집 가능
   - 에피소드가 많을 경우, 토글버튼을 이용한 UI 변경 가능
 
-  <img width="80%" src="https://autobiography.s3.ap-northeast-2.amazonaws.com/timeline.gif?raw=true"/>
+  | ![일대기 페이지](./README.assets/일대기 페이지.PNG) |
+  | --------------------------------------------------- |
+
+  
 
 - **공유기능**
 
@@ -113,6 +119,10 @@ Common: <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&l
 
 - `node` : 14.16.0
 - `npm` : 6.14.11
+
+**시스템 아키텍처**
+
+![image-20210612115301719](./README.assets/image-20210612115301719.png)
 
 <br>
 
